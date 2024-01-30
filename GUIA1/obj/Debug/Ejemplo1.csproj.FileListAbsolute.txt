@@ -1,0 +1,11 @@
+E:\HR100621_Actividad\GUIA1\GUIA1\bin\Debug\GUIA1.exe.config
+E:\HR100621_Actividad\GUIA1\GUIA1\bin\Debug\GUIA1.exe
+E:\HR100621_Actividad\GUIA1\GUIA1\bin\Debug\GUIA1.pdb
+E:\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+E:\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\GUIA1.frmventana.resources
+E:\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\GUIA1.Form2.resources
+E:\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\GUIA1.Properties.Resources.resources
+E:\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+E:\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+E:\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\GUIA1.exe
+E:\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\GUIA1.pdb

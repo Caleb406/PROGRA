@@ -1,0 +1,10 @@
+E:\HR100621_Actividad\GUIA1\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+E:\HR100621_Actividad\GUIA1\Ejercicio3\bin\Debug\Ejercicio3.exe
+E:\HR100621_Actividad\GUIA1\Ejercicio3\bin\Debug\Ejercicio3.pdb
+E:\HR100621_Actividad\GUIA1\Ejercicio3\obj\Debug\LoginBasico.csproj.AssemblyReference.cache
+E:\HR100621_Actividad\GUIA1\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+E:\HR100621_Actividad\GUIA1\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+E:\HR100621_Actividad\GUIA1\Ejercicio3\obj\Debug\LoginBasico.csproj.GenerateResource.cache
+E:\HR100621_Actividad\GUIA1\Ejercicio3\obj\Debug\LoginBasico.csproj.CoreCompileInputs.cache
+E:\HR100621_Actividad\GUIA1\Ejercicio3\obj\Debug\Ejercicio3.exe
+E:\HR100621_Actividad\GUIA1\Ejercicio3\obj\Debug\Ejercicio3.pdb

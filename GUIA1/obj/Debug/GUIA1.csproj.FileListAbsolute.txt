@@ -1,0 +1,10 @@
+C:\Users\UFG\Desktop\HR100621_Actividad\GUIA1\GUIA1\bin\Debug\GUIA1.exe.config
+C:\Users\UFG\Desktop\HR100621_Actividad\GUIA1\GUIA1\bin\Debug\GUIA1.exe
+C:\Users\UFG\Desktop\HR100621_Actividad\GUIA1\GUIA1\bin\Debug\GUIA1.pdb
+C:\Users\UFG\Desktop\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\GUIA1.csproj.AssemblyReference.cache
+C:\Users\UFG\Desktop\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\GUIA1.frmventana.resources
+C:\Users\UFG\Desktop\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\GUIA1.Properties.Resources.resources
+C:\Users\UFG\Desktop\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\GUIA1.csproj.GenerateResource.cache
+C:\Users\UFG\Desktop\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\GUIA1.csproj.CoreCompileInputs.cache
+C:\Users\UFG\Desktop\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\GUIA1.exe
+C:\Users\UFG\Desktop\HR100621_Actividad\GUIA1\GUIA1\obj\Debug\GUIA1.pdb
